@@ -9,12 +9,10 @@ The main goals of this project are to
 4. report any findings in a meaningful way. 
 
 
-Inital discovery - the number of kaggle users by age and gender
+## Discoveries
 ![image](https://user-images.githubusercontent.com/20074613/121215447-031a6d80-c84e-11eb-9f87-23880cffda8a.png)
 
-User's experience in programming by age
 ![image](https://user-images.githubusercontent.com/20074613/121220913-0ebc6300-c853-11eb-9d0c-a9efda3a7bb5.png)
 
-User's preferred programming language
 ![image](https://user-images.githubusercontent.com/20074613/121220993-21cf3300-c853-11eb-828f-c2e7f18e01f8.png)
 
