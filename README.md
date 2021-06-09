@@ -11,9 +11,14 @@ The main goals of this project are to
 
 
 ## Discoveries
-![image](https://user-images.githubusercontent.com/20074613/121215447-031a6d80-c84e-11eb-9f87-23880cffda8a.png)
+![image](https://user-images.githubusercontent.com/20074613/121433337-dd728e80-c949-11eb-9e16-9b135be584a2.png)
 
 ![image](https://user-images.githubusercontent.com/20074613/121220913-0ebc6300-c853-11eb-9d0c-a9efda3a7bb5.png)
 
-![image](https://user-images.githubusercontent.com/20074613/121220993-21cf3300-c853-11eb-828f-c2e7f18e01f8.png)
+![image](https://user-images.githubusercontent.com/20074613/121433202-aef4b380-c949-11eb-895c-28075d2cea37.png)
+
+![image](https://user-images.githubusercontent.com/20074613/121433229-bb790c00-c949-11eb-97ad-091652436150.png)
+
+![image](https://user-images.githubusercontent.com/20074613/121433264-c7fd6480-c949-11eb-806a-786724bb7fad.png)
+
 
