@@ -1,6 +1,7 @@
 # Kaggle Survey Project
-An exploratory analysis of the Kaggle survey data from 2020
-The analysis will be displayed using some python libraries in Jupyter notebook.
+An exploratory analysis of the Kaggle survey data from 2020.
+
+The analysis will be displayed using some python libraries in Jupyter notebook (Please take a look at .pynb file for more details).
 
 The main goals of this project are to 
 1. have a high level understanding of the data
