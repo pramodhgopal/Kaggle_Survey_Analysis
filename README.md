@@ -1,9 +1,12 @@
-# Kaggle Survey 
+# Kaggle Survey Project
 An exploratory analysis of the Kaggle survey data from 2020
+The analysis will be displayed using some python libraries in Jupyter notebook.
 
-1. High level understanding of data
-2. Understand how to work with different question types in the survey
-3. Experiment?
+The main goals of this project are to 
+1. have a high level understanding of the data
+2. understand how to work with different question types in the survey
+3. display the results
+4. report any findings in a meaningful way. 
 
 
 Inital discovery - the number of kaggle users by age and gender
